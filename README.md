@@ -2,7 +2,7 @@
 - 👀 I’m interested in anything and everything related with technology.
 - 🌱 I’m currently learning JavaScript and CSharp.
 - 💞️ I’m looking to collaborate on many projects that I can improve my skills.
-- 📫 How to reach me @jirgeechin on X.
+- 📫 How to reach me https://www.linkedin.com/in/eenkhmunkh/
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I am from Mongolia!
 
